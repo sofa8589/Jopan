@@ -575,10 +575,10 @@ img{
 
 .search-form__field-1{
     width: 400px;
-    background-size: 20px; 
-    border:0; 
-    border-bottom: 2px solid #48494b; 
-    margin-right: 60px; 
+    background-size: 20px;
+    border:0;
+    border-bottom: 2px solid #48494b;
+    margin-right: 60px;
     padding-left: 43px;
     padding-bottom: 22px;
     font-weight: 500;
@@ -586,7 +586,6 @@ img{
     background-color: #686869;
     margin-left: auto;
     margin-right: auto;
-    
 }
 .search-form__field-1::placeholder{
     font-weight: 500;
@@ -634,7 +633,7 @@ img{
 .intro__title-1{
     max-width: 619px;
     font-weight: 500;
-    font-size: 50px;
+    font-size: 70px;
     line-height: 60px;
     color: white;
     margin-bottom: 22px;
@@ -646,12 +645,13 @@ img{
 .search-form__info-1{
     text-align: center;
     color: gray;
+   margin-bottom: 10px;
 }
 .reg{
     font-style: normal;
     font-weight: 500;
-    font-size: 12px;
+    font-size: 18px;
     color: #fff;
     text-align: center;
-    margin-left: 28em;
+    margin-left: 17em;
 }
